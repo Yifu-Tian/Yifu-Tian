@@ -7,4 +7,4 @@ I am also a visiting scholar at [Univeristy of Illinois at Urbana-Champaign](htt
 
 🙌 Interests: UAV, multi-robot systems, motion planning, and robot learning.
 
-📫 How to reach me: 121090517az@gmail.com
+📫 How to reach me: ift1an@outlook.com
