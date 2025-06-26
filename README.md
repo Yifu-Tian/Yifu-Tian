@@ -1,10 +1,14 @@
 # Hi there 👋
 
-I am now a senior undergraduate student in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I am expected to receive my B.Eng. in Computer Engineering from The Chinese University of Hong Kong, Shenzhen in 2025.
+I am now a senior undergraduate student in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I received my B.Eng. in Computer Engineering from The Chinese University of Hong Kong in 2025.
 
 Previously, I worked as a research assistant at [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/).
 I am also a visiting scholar at [Univeristy of Illinois at Urbana-Champaign](https://illinois.edu/), [Thomas M. Siebel Center for Computer Science](https://grainger.illinois.edu/about/self-guided-tour/thomas-m-siebel-center).
 
-🙌 Interests: UAV, multi-robot systems, motion planning, and robot learning.
+Currently, I am working in [FAST Lab@Zhejiang University](http://zju-fast.com/) for gap year.
 
-📫 How to reach me: ift1an@outlook.com
+**I am actively seeking for PhD positions! Feel free to reach me if you are interested in me!**
+
+🙌 Interests: UAV, learning-based planning, motion planning, and diffusion model.
+
+📫 How to reach me: yifutian@link.cuhk.edu.cn
