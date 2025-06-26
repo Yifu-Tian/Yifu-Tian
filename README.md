@@ -7,8 +7,10 @@ I am also a visiting scholar at [Univeristy of Illinois at Urbana-Champaign](htt
 
 Currently, I am working in [FAST Lab@Zhejiang University](http://zju-fast.com/) for gap year.
 
-**I am actively seeking for PhD positions! Feel free to reach me if you are interested in me!**
+**I am actively seeking for a PhD position! Feel free to reach me if you are interested in me!**
 
 🙌 Interests: UAV, learning-based planning, motion planning, and diffusion model.
+
+😃 Miscs: Hiking, Gym, Reading(history), and Badminton.
 
 📫 How to reach me: yifutian@link.cuhk.edu.cn
