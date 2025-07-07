@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I received my B.Eng. in Computer Engineering from The Chinese University of Hong Kong in 2025.
+I received my B.Eng. in Electrical Computer Engineering from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) in 2025.
 
 Previously, I worked as a research assistant at [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/).
 I am also a visiting scholar at [Univeristy of Illinois at Urbana-Champaign](https://illinois.edu/), [Thomas M. Siebel Center for Computer Science](https://grainger.illinois.edu/about/self-guided-tour/thomas-m-siebel-center).
