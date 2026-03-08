@@ -12,6 +12,6 @@ I am also a **UP** in Bilibili, where I regularly upload videos that discuss res
 
 🙌 Interests: Learning-based planning, motion planning, and diffusion model.
 
-😃 Miscs: Hiking, Gym, Reading(history), Chess.
+😃 Miscs: Hiking, Gym, Reading(history), **League of Legends**.
 
 📫 How to reach me: yifutian@link.cuhk.edu.cn
