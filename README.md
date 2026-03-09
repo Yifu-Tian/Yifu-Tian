@@ -20,3 +20,7 @@ I am also a **Uploader** in Bilibili, where I regularly upload videos that discu
 😃 Miscs: Hiking, Gym, Reading(history), **League of Legends**.
 
 📫 How to reach me: yifutian@link.cuhk.edu.cn
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/07/d9/4a/07d94a3579ebbee9dc66d22e7218fb61.gif" width="600"> 
+</div>
