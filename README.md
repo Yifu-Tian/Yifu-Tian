@@ -22,5 +22,5 @@ I am also a **Uploader** in Bilibili, where I regularly upload videos that discu
 📫 How to reach me: yifutian@link.cuhk.edu.cn
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/07/d9/4a/07d94a3579ebbee9dc66d22e7218fb61.gif" width="800"> 
+  <img src="https://i.pinimg.com/originals/3a/e7/92/3ae792706e97941696b70b4763bd2963.gif" width="400"> 
 </div>
