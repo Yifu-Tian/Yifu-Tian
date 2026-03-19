@@ -11,7 +11,7 @@ Previously,
 
 - After graduating from CUHK-Shenzhen, I worked as a research assistant in [FASTLab@Zhejiang University](https://zju-fast-lab.github.io/groups/).
 
-I will join Shanghai Jiao Tong University from March 2026 to August 2026 as a visiting student under the supervision of [Prof. Tong Qin](https://faculty.sjtu.edu.cn/qintong/zh_CN/xsxx/683690/list/index.htm).
+I will join [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from March 2026 to August 2026 as a visiting student under the supervision of [Prof. Tong Qin](https://qintong.xyz/).
 
 After that, I will join [George Washington University](https://engineering.gwu.edu/) in 2026 Fall as a Ph.D. student under the supervision of [Prof. Chuchu CHEN](chuchuchen.net).
 
