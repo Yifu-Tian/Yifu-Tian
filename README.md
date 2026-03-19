@@ -11,7 +11,9 @@ Previously,
 
 - After graduating from CUHK-Shenzhen, I worked as a research assistant in [FASTLab@Zhejiang University](https://zju-fast-lab.github.io/groups/).
 
-I will join [George Washington University](https://engineering.gwu.edu/) in 2026 Fall as a Ph.D. student under the supervision of [Prof. Chuchu CHEN](chuchuchen.net).
+I will join Shanghai Jiao Tong University from March 2026 to August 2026 as a visiting student under the supervision of [Prof. Tong Qin](https://faculty.sjtu.edu.cn/qintong/zh_CN/xsxx/683690/list/index.htm).
+
+After that, I will join [George Washington University](https://engineering.gwu.edu/) in 2026 Fall as a Ph.D. student under the supervision of [Prof. Chuchu CHEN](chuchuchen.net).
 
 I am also a **Uploader** in Bilibili, where I regularly upload videos that discuss research papers. My goal is to record my academic growth. Feel free to watch [here](https://space.bilibili.com/443271409?spm_id_from=333.1007.0.0).
 
