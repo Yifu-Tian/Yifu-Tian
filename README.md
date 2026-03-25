@@ -15,7 +15,7 @@ I will join [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from March 
 
 After that, I will join [George Washington University](https://engineering.gwu.edu/) in 2026 Fall as a Ph.D. student under the supervision of [Prof. Chuchu CHEN](chuchuchen.net).
 
-I am also a **Uploader** in Bilibili, where I regularly upload videos that discuss research papers. My goal is to record my academic growth. Feel free to watch [here](https://space.bilibili.com/443271409?spm_id_from=333.1007.0.0).
+I am also a **Uploader** in Bilibili, where I upload videos about my research. My goal is to record my academic growth. Feel free to watch [here](https://space.bilibili.com/443271409?spm_id_from=333.1007.0.0).
 
 🙌 Interests: Learning-based planning, motion planning, and diffusion model.
 
