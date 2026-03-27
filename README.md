@@ -17,7 +17,7 @@ After that, I will join [George Washington University](https://engineering.gwu.e
 
 I am also a **Uploader** in Bilibili, where I upload videos about my research. My goal is to record my academic growth. Feel free to watch [here](https://space.bilibili.com/443271409?spm_id_from=333.1007.0.0).
 
-🙌 Interests: Learning-based planning, motion planning, and diffusion model.
+🙌 Interests: Path planning, robot learning, and diffusion model.
 
 😃 Miscs: Hiking, Gym, Reading(history), **League of Legends**.
 
