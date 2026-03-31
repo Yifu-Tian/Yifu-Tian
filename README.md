@@ -1,4 +1,4 @@
-# Hi there 👋 Let's Do Serious Robotics Research
+# Hi there 👋
 
 I received my B.Eng. in Electrical Computer Engineering from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) in 2025.
 
