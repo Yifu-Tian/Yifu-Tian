@@ -27,6 +27,3 @@ I am also a **Uploader** in Bilibili, where I upload videos about my research. M
   <img src="https://i.pinimg.com/originals/3a/e7/92/3ae792706e97941696b70b4763bd2963.gif" width="400"> 
 </div>
 
-<div align="center">
-  <img src="https://clustrmaps.com/map_v2.png?d=OesTEeAJeeWPi5CXXMuhKbi8NzUruZGPszwJptT9EDs" alt="Visitor Map" />
-</div>
