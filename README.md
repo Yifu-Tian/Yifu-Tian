@@ -19,7 +19,7 @@ I am also a **Uploader** in Bilibili, where I upload videos about my research. M
 
 🙌 Interests: Path planning, robot learning, and diffusion model.
 
-😃 Miscs: Hiking, FPV, History, **League of Legends**.
+😃 Miscs: Hiking, FPV, History, **Kirby**, League of Legends.
 
 📫 How to reach me: yifutian@link.cuhk.edu.cn
 
