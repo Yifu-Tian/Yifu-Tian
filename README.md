@@ -7,7 +7,7 @@ Previously,
 
 - I worked as a research assistant at [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/).
 
-- I was also a visiting scholar at [Univeristy of Illinois at Urbana-Champaign](https://illinois.edu/), [Thomas M. Siebel Center for Computer Science](https://grainger.illinois.edu/about/self-guided-tour/thomas-m-siebel-center).
+- I was also a visiting scholar at [Univeristy of Illinois at Urbana-Champaign](https://illinois.edu/), [Thomas M. Siebel Center for CS](https://grainger.illinois.edu/about/self-guided-tour/thomas-m-siebel-center).
 
 - After graduating from CUHK-Shenzhen, I worked as a research assistant in [FASTLab@Zhejiang University](https://zju-fast-lab.github.io/groups/).
 
