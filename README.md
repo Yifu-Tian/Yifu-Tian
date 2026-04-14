@@ -15,11 +15,11 @@ I am now working at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) as 
 
 After that, I will join [George Washington University](https://engineering.gwu.edu/) in 2026 Fall as a Ph.D. student under the supervision of [Prof. Chuchu Chen](chuchuchen.net).
 
-I am also a **Uploader** in Bilibili, where I upload videos about my research. My goal is to record my academic growth. Feel free to watch [here](https://space.bilibili.com/443271409?spm_id_from=333.1007.0.0).
+I also upload videos about research and papers on Bilibili to record my academic growth. Feel free to watch [here](https://space.bilibili.com/443271409?spm_id_from=333.1007.0.0).
 
 🙌 Interests: Path planning, robot learning, and diffusion model.
 
-😃 Miscs: Hiking, FPV, History, **Kirby**, League of Legends.
+😃 Miscs: Guzheng(an instrument), Hiking, FPV, History, **Kirby**, League of Legends.
 
 📫 How to reach me: yifutian@link.cuhk.edu.cn
 
