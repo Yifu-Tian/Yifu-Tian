@@ -23,7 +23,15 @@ I also upload videos about research and papers on Bilibili to record my academic
 
 📫 How to reach me: yifutian@link.cuhk.edu.cn
 
+## My Github Stats
+<br> 
 <div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=Yifu-Tian"/> </p>
+
+![Yifu(Joseph) Tian's Github Stats](https://github-readme-stats.vercel.app/api/?username=Yifu-Tian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
   <img src="https://i.pinimg.com/originals/3a/e7/92/3ae792706e97941696b70b4763bd2963.gif" width="400"> 
+  
 </div>
 
