@@ -21,7 +21,7 @@ I also upload videos about research and papers on Bilibili to record my academic
 
 😃 Miscs: Guzheng(an instrument), Hiking, FPV, History, **Kirby**, League of Legends.
 
-📫 How to reach me: yifutian@link.cuhk.edu.cn
+📫 How to reach me: josepht@gwu.edu
 
 ## My Github Stats
 <br> 
