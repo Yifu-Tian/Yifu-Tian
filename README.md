@@ -17,7 +17,7 @@ After that, I will join [George Washington University](https://engineering.gwu.e
 
 I also upload videos about research and papers on Bilibili to record my academic growth. Feel free to watch [here](https://space.bilibili.com/443271409?spm_id_from=333.1007.0.0).
 
-🙌 Interests: Path planning, robot learning, and generative model(diffusion models&flow matching etc.).
+🙌 Interests: Path planning, robot learning, and generative model(diffusion models&flow matching).
 
 😃 Miscs: Guzheng(an instrument), Hiking, FPV, **Kirby**, League of Legends.
 
