@@ -19,7 +19,7 @@ I also upload videos about research and papers on Bilibili to record my academic
 
 🙌 Interests: Path planning, robot learning, and generative model(diffusion models&flow matching etc.).
 
-😃 Miscs: Guzheng(an instrument), Hiking, FPV, History, **Kirby**, League of Legends.
+😃 Miscs: Guzheng(an instrument), Hiking, FPV, **Kirby**, League of Legends.
 
 📫 How to reach me: josepht@gwu.edu
 
