@@ -9,7 +9,7 @@ Previously,
 
 - I was also a visiting scholar at [UIUC](https://illinois.edu/), [Thomas M. Siebel Center for CS](https://grainger.illinois.edu/about/self-guided-tour/thomas-m-siebel-center).
 
-- After graduating from CUHK-Shenzhen, I worked as a research assistant in [FASTLab@ZJU](https://zju-fast-lab.github.io/groups/).
+- After graduating from CUHK-Shenzhen, I worked as a research assistant in [FAST Lab@ZJU](https://zju-fast-lab.github.io/groups/).
 
 I am now working at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) as a visiting student under the supervision of [Prof. Tong Qin](https://qintong.xyz/).
 
