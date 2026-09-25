@@ -8,9 +8,12 @@ Previously,
 
 - I worked as a research assistant at [AIRS](https://airs.cuhk.edu.cn/).
 
-- I was also a visiting scholar at [UIUC](https://illinois.edu/), [Thomas M. Siebel Center for CS](https://grainger.illinois.edu/about/self-guided-tour/thomas-m-siebel-center).
+- I was a visiting scholar at [UIUC](https://illinois.edu/), [Thomas M. Siebel Center for CS](https://grainger.illinois.edu/about/self-guided-tour/thomas-m-siebel-center).
 
+- I was on a research internship at Fastlab@Zhejiang University.
 
+- I was on a research internship at Shanghai Jiao Tong University.
+  
 I also upload videos about research and papers on Bilibili to record my academic growth. Feel free to watch [here](https://space.bilibili.com/443271409?spm_id_from=333.1007.0.0).
 
 🙌 Interests: Path planning, robot learning, and generative model(diffusion models&flow matching).
